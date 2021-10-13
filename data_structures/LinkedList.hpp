@@ -3,7 +3,7 @@
 template <typename T>
 
 class LinkedList{
-    struct Node{
+    struct Node {
         T value;
         Node* next;
     };

@@ -2,6 +2,7 @@
 #include <vector>
 template<typename T>
 
+// TODO
 // left is smaller then root
 class BinarySearchTree{
     struct Node {

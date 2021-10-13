@@ -7,6 +7,9 @@ class Stack : public LinkedList<T>{
     public:
         Stack(){
         }
+        void push(T value){
+            LinkedList<T>::push(value);
+        };
         void pop(){
             if(LinkedList<T>::is_empty()){
                 std::cout<<"Stack Empty\n";

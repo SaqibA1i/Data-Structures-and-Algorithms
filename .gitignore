@@ -1,4 +1,4 @@
 .vscode
-./data_structures/a
+./a
 ./data_structures/BinarySearchTree.hpp
 ./data_structures/Graph.hpp
